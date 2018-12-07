@@ -9,9 +9,13 @@
 
       * [Kahoot](workshop/3-kahoot.md)
 	  * [Self assignment](workshop/4-self-assignment.md)
-	  * [Planning](workshop/5-planning.md)
+	  
+	  * Projects
+	  
+		* [Tic Tac Toe] (workshop/5-tic-tac-toe.md)
+		
 
     * 2nd day
 
-      * [Secret]()
+      * [Coding Dojo](workshop/10-coding-dojo.md)
     
