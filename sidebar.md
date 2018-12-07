@@ -8,14 +8,12 @@
 	* 1st day
 
       * [Kahoot](workshop/3-kahoot.md)
-	  * [Self assignment](workshop/4-self-assignment.md)
+	  * [Self assessment](workshop/4-self-assessment.md)
 	  
 	  * Projects
 	  
-		* [Tic Tac Toe] (workshop/5-tic-tac-toe.md)
+		* [Tic Tac Toe](workshop/5-tic-tac-toe.md)
 		
-
     * 2nd day
 
       * [Coding Dojo](workshop/10-coding-dojo.md)
-    
