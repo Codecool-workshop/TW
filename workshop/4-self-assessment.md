@@ -28,10 +28,10 @@ Please mark topics that you are familiar with:
   * operators:
     * assigning [ ],
     * comparing [ ],
-    * grater than / less than [ ],
+    * greater than / less than [ ],
     * negation [ ],
-    * conjuction [ ],
-    * disconjuction [ ],
+    * conjunction [ ],
+    * disconjunction [ ],
 
 
   * loops:
