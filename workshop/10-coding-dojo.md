@@ -1,3 +1,3 @@
-* Coding Dojo
+# Coding Dojo
 
 TBD

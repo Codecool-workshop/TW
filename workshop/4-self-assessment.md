@@ -1,4 +1,4 @@
-* Self Assessment
+# Self Assessment
 
 Before you start coding please check your knowledge from demo materials!
 Please mark topics that you are familiar with:

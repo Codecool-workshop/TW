@@ -4,8 +4,10 @@
 
   * 1st day
 
-    * [Kahoot](workshop/3-kahoot.md)
-	* [Self assessment](workshop/4-self-assessment.md)
+    * Warming up!  
+  
+      * [Kahoot](workshop/3-kahoot.md)
+	  * [Self assessment](workshop/4-self-assessment.md)
 	  
 	* Projects
 	  
