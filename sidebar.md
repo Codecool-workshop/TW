@@ -12,7 +12,7 @@
 	* Project
 
 	   * [Tic Tac Toe](workshop/tic-tac-toe.md)
-      * [Netflix 1.0](workshop/netflix.md)
+     * [Netflix 1.0](workshop/netflix.md)
        * [Planning](workshop/planning.md)
 
   * 2nd day
